@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tim\\source\\repos\\Bot Final Project\\Bot Final Project\\Bot Final Project.csproj": {}
+    "C:\\Users\\Tim\\Downloads\\Bot.Final.Project\\Bot Final Project\\Bot Final Project\\Bot Final Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tim\\source\\repos\\Bot Final Project\\Bot Final Project\\Bot Final Project.csproj": {
+    "C:\\Users\\Tim\\Downloads\\Bot.Final.Project\\Bot Final Project\\Bot Final Project\\Bot Final Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tim\\source\\repos\\Bot Final Project\\Bot Final Project\\Bot Final Project.csproj",
+        "projectUniqueName": "C:\\Users\\Tim\\Downloads\\Bot.Final.Project\\Bot Final Project\\Bot Final Project\\Bot Final Project.csproj",
         "projectName": "Bot Final Project",
-        "projectPath": "C:\\Users\\Tim\\source\\repos\\Bot Final Project\\Bot Final Project\\Bot Final Project.csproj",
+        "projectPath": "C:\\Users\\Tim\\Downloads\\Bot.Final.Project\\Bot Final Project\\Bot Final Project\\Bot Final Project.csproj",
         "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tim\\source\\repos\\Bot Final Project\\Bot Final Project\\obj\\",
+        "outputPath": "C:\\Users\\Tim\\Downloads\\Bot.Final.Project\\Bot Final Project\\Bot Final Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tim\\AppData\\Roaming\\NuGet\\NuGet.Config",
